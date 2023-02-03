@@ -2,4 +2,4 @@
 
 ## Collaborativ project
 
-This is the start file...
+add a `.gitignore` file. PLZ.
